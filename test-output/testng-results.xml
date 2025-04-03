@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-03T15:16:48 IST" name="Default suite" finished-at="2025-04-03T15:16:49 IST" duration-ms="1534">
+    <groups>
+    </groups>
+    <test started-at="2025-04-03T15:16:48 IST" name="Default test" finished-at="2025-04-03T15:16:49 IST" duration-ms="1534">
+      <class name="ExcelDriven.ExcelXTestNG">
+        <test-method signature="logIn(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelDriven.ExcelXTestNG@35f26e72]" started-at="2025-04-03T15:16:49 IST" name="logIn" data-provider="exceldata" finished-at="2025-04-03T15:16:49 IST" duration-ms="21" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Email (Yahoo)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[johnsmith@yahoo.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jelly22fih]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="logIn(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelDriven.ExcelXTestNG@35f26e72]" started-at="2025-04-03T15:16:49 IST" name="logIn" data-provider="exceldata" finished-at="2025-04-03T15:16:49 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Email (Gmail)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[johnsmith@yahoo.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1Ki77y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="logIn(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelDriven.ExcelXTestNG@35f26e72]" started-at="2025-04-03T15:16:49 IST" name="logIn" data-provider="exceldata" finished-at="2025-04-03T15:16:49 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Google Drive]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jsmilth04312]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[yknjs:!776]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="logIn(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelDriven.ExcelXTestNG@35f26e72]" started-at="2025-04-03T15:16:49 IST" name="logIn" data-provider="exceldata" finished-at="2025-04-03T15:16:49 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dropbox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[john.smith05]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[m3llycat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="logIn(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelDriven.ExcelXTestNG@35f26e72]" started-at="2025-04-03T15:16:49 IST" name="logIn" data-provider="exceldata" finished-at="2025-04-03T15:16:49 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Instagram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[johnsmith@yahoo.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[de2la6903]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="logIn(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelDriven.ExcelXTestNG@35f26e72]" started-at="2025-04-03T15:16:49 IST" name="logIn" data-provider="exceldata" finished-at="2025-04-03T15:16:49 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Facebook]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[johnsmith@yahoo.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[d3itagarnm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="logIn(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelDriven.ExcelXTestNG@35f26e72]" started-at="2025-04-03T15:16:49 IST" name="logIn" data-provider="exceldata" finished-at="2025-04-03T15:16:49 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Twiter]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[johnsmith@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[a11Black]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="logIn(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelDriven.ExcelXTestNG@35f26e72]" started-at="2025-04-03T15:16:49 IST" name="logIn" data-provider="exceldata" finished-at="2025-04-03T15:16:49 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Skpe]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[johnhsmith]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3efBGy&uKlp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="logIn(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelDriven.ExcelXTestNG@35f26e72]" started-at="2025-04-03T15:16:49 IST" name="logIn" data-provider="exceldata" finished-at="2025-04-03T15:16:49 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+      </class> <!-- ExcelDriven.ExcelXTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

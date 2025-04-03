@@ -18,8 +18,7 @@ public class dataDriven {
 
 		ArrayList<String> a = new ArrayList<String>();
 		int col = 0;
-		FileInputStream fis = new FileInputStream(
-				"C:\\Users\\RB00993323\\Desktop\\Rupak Java\\ApachePOI\\demodata.xlsx");
+		FileInputStream fis = new FileInputStream("C:\\Users\\RB00993323\\Desktop\\Rupak Java\\ApachePOI\\demodata.xlsx");
 		XSSFWorkbook workbook = new XSSFWorkbook(fis);
 
 		int sheetNumber = workbook.getNumberOfSheets();
@@ -54,7 +53,6 @@ public class dataDriven {
 
 						while (cv.hasNext()) {
 							Cell c = cv.next();
-							
 
 							if (c.getCellType() == CellType.STRING) {
 								a.add(c.getStringCellValue());
