@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ExcelDriven.ExcelXTestNG">
+      <class name="UploadDownload.UploadDownload">
         <methods>
-          <include name="logIn"/>
+          <include name="download"/>
         </methods>
-      </class> <!-- ExcelDriven.ExcelXTestNG -->
+      </class> <!-- UploadDownload.UploadDownload -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
